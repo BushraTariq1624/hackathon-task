@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+.prp{
+    color: #6f42c1;
+}
+.gray{
+    color: #808081;
+}
+.back{
+    background-color: #f0ecf9 !important;
+}
+ul{
+    list-style: none;
+}
+.button{
+    color: white;
+    background-color: #6f42c1;
+    width: 150px;
+    height: 40px;
+    border:none;
+    border-radius: 20px;
+}
+.but{
+    color: white;
+    background-color: #6f42c1;
+    width: 120px;
+    height: 40px;
+    border:none;
+    border-radius: 20px;
+}
+.btn{
+    color: white;
+    background-color: #6f42c1;
+    width: 300px;
+    height: 40px;
+    border:none;
+    border-radius: 20px;
+}
+i{
+    color: red;
+}
+.call li{
+    margin-bottom: 10px;
+}
+.gray b{
+    color: black;
+}
+.news{
+    background-color: #6f42c1;
+    color: white;
+    transform: translate(0%, -40%);
+    border: none;
+}
+a{
+    text-decoration: none;
+}
